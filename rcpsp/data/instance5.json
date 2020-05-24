@@ -1,0 +1,225 @@
+{
+  "instance": "j305_1.sm",
+  "capacity": 53,
+  "tasks": {
+    "0": {
+      "duration": 10,
+      "request": 13,
+      "successors": [
+        10,
+        21
+      ]
+    },
+    "1": {
+      "duration": 4,
+      "request": 15,
+      "successors": [
+        3,
+        6,
+        15
+      ]
+    },
+    "2": {
+      "duration": 1,
+      "request": 6,
+      "successors": [
+        4,
+        17,
+        22
+      ]
+    },
+    "3": {
+      "duration": 3,
+      "request": 15,
+      "successors": [
+        5,
+        8,
+        24
+      ]
+    },
+    "4": {
+      "duration": 5,
+      "request": 3,
+      "successors": [
+        14,
+        20,
+        26
+      ]
+    },
+    "5": {
+      "duration": 10,
+      "request": 5,
+      "successors": [
+        7
+      ]
+    },
+    "6": {
+      "duration": 1,
+      "request": 4,
+      "successors": [
+        9
+      ]
+    },
+    "7": {
+      "duration": 4,
+      "request": 12,
+      "successors": [
+        22
+      ]
+    },
+    "8": {
+      "duration": 6,
+      "request": 17,
+      "successors": [
+        11,
+        20
+      ]
+    },
+    "9": {
+      "duration": 8,
+      "request": 3,
+      "successors": [
+        13,
+        23
+      ]
+    },
+    "10": {
+      "duration": 7,
+      "request": 23,
+      "successors": [
+        24
+      ]
+    },
+    "11": {
+      "duration": 7,
+      "request": 15,
+      "successors": [
+        12
+      ]
+    },
+    "12": {
+      "duration": 4,
+      "request": 6,
+      "successors": [
+        18,
+        26
+      ]
+    },
+    "13": {
+      "duration": 3,
+      "request": 22,
+      "successors": [
+        22
+      ]
+    },
+    "14": {
+      "duration": 10,
+      "request": 8,
+      "successors": [
+        19
+      ]
+    },
+    "15": {
+      "duration": 3,
+      "request": 27,
+      "successors": [
+        16
+      ]
+    },
+    "16": {
+      "duration": 4,
+      "request": 2,
+      "successors": [
+        25
+      ]
+    },
+    "17": {
+      "duration": 3,
+      "request": 13,
+      "successors": [
+        18,
+        19,
+        28
+      ]
+    },
+    "18": {
+      "duration": 7,
+      "request": 6,
+      "successors": [
+        27
+      ]
+    },
+    "19": {
+      "duration": 5,
+      "request": 5,
+      "successors": [
+        21
+      ]
+    },
+    "20": {
+      "duration": 1,
+      "request": 13,
+      "successors": [
+        23,
+        28
+      ]
+    },
+    "21": {
+      "duration": 10,
+      "request": 1,
+      "successors": [
+        25
+      ]
+    },
+    "22": {
+      "duration": 8,
+      "request": 11,
+      "successors": [
+        25
+      ]
+    },
+    "23": {
+      "duration": 1,
+      "request": 9,
+      "successors": [
+        29
+      ]
+    },
+    "24": {
+      "duration": 6,
+      "request": 11,
+      "successors": [
+        27
+      ]
+    },
+    "25": {
+      "duration": 4,
+      "request": 4,
+      "successors": [
+        27
+      ]
+    },
+    "26": {
+      "duration": 7,
+      "request": 9,
+      "successors": [
+        29
+      ]
+    },
+    "27": {
+      "duration": 6,
+      "request": 7,
+      "successors": []
+    },
+    "28": {
+      "duration": 9,
+      "request": 8,
+      "successors": []
+    },
+    "29": {
+      "duration": 4,
+      "request": 17,
+      "successors": []
+    }
+  }
+}
